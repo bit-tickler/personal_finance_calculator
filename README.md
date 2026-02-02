@@ -2,9 +2,7 @@
 Author: Michael Shields
 
 ## About
-A text-based command line application that allows the user to enter their finances and view a budget summary. This project was complete for **[Beng Software Engineering - Computer Science Fundamentals (COM4302) - Assignment 2](https://github.com/bit-tickler/personal_finance_calculator/blob/main/COM4302%20-%20Assessment%202%20Report%20-%202024-25.pdf)**.
-
-
+A command line application that allows the user to enter their finances and view a budget summary. This project was complete for **[Beng Software Engineering - Computer Science Fundamentals (COM4302) - Assignment 2](https://github.com/bit-tickler/personal_finance_calculator/blob/main/COM4302%20-%20Assessment%202%20Report%20-%202024-25.pdf)**.
 
 ## Prerequisites.
 
