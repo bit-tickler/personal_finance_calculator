@@ -1,0 +1,18 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Replit/Other
+replit.nix
+uv.lock  # If not using UV
+
+# Misc
+*.DS_Store
+.idea/
+*.swp

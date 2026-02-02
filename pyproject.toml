@@ -1,0 +1,15 @@
+[project]
+name = "personal-finance-calculator"
+version = "0.1.0"
+description = "A text-based command line application for managing personal finances and viewing budget summaries."
+authors = [
+{ name = "Michael Shields" }
+]
+requires-python = ">=3.11,<4.0"
+dependencies = [
+"simple-term-menu >=1.6.4",
+]
+[tool.poetry]
+package-mode = false
+[project.urls]
+Homepage = "https://github.com/bit-tickler"
